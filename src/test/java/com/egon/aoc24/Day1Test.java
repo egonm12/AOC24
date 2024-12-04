@@ -1,4 +1,4 @@
-package com.egon.aoc24.day1;
+package com.egon.aoc24;
 
 import static org.assertj.core.api.Assertions.assertThat;
 

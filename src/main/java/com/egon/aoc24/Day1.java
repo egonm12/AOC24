@@ -1,10 +1,8 @@
-package com.egon.aoc24.day1;
+package com.egon.aoc24;
 
 import java.io.IOException;
 import java.nio.file.Path;
 import java.util.*;
-
-import com.egon.aoc24.InputReader;
 
 public class Day1 {
     public static void main(String[] args) throws IOException {
